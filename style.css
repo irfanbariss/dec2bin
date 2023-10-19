@@ -21,7 +21,7 @@ body {
   top: 50%;
   left: 50%;
   border-radius: 1rem;
-  box-shadow: 0 1.2rem 2.5rem rgba(0, 21, 44, 0.18);
+  /* box-shadow: 0 0.5rem 2rem #a1e91a09; */
 }
 
 h2 {
